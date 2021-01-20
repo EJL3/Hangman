@@ -8,7 +8,7 @@ mixer.music.load("background.mp3")
 mixer.music.play(-1)
 winHeight = 480
 winWidth = 700
-pygame.display.set_caption('Game Animation')
+pygame.display.set_caption('By Rizwan.AR')
 win = pygame.display.set_mode((winWidth, winHeight))
 
 BLACK = (0, 0, 0)
